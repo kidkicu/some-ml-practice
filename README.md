@@ -1,0 +1,1 @@
+In this project i practice and learning about traditional machine learning method and model algorithms. Such as decision tree, clustering, and random forest model. And also this project i learn git and github. Well this is update, no update actually lalalala
